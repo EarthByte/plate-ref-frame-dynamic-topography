@@ -1,0 +1,10 @@
+reconstructions/*
+models/*
+tmp/*
+data/*
+.ipynb_checkpoints/
+__pycache__/
+gmt.conf
+gmt.history
+output
+vtest.xy
